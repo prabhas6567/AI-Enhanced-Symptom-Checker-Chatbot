@@ -183,9 +183,6 @@ We welcome contributions to the AI-Enhanced Symptom Checker Chatbot project! To 
 - **Documentation**: Update the documentation to reflect your changes, if necessary.
 - **Commit Messages**: Write clear and concise commit messages that describe the changes made.
 
-### Code of Conduct
-
-By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the expectations for contributing to this project.
 
 ### Owner
 
@@ -197,9 +194,7 @@ You can connect with me On [LinkedIn](https://www.linkedin.com/in/gampala-prabha
 
 Thank you for your contributions! We appreciate your help in improving the AI-Enhanced Symptom Checker Chatbot.
 
-## License
 
-MIT License - feel free to use this project for any purpose.
 
 ## Disclaimer
 
