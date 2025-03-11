@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Health Assistant Pro",
+    "subtitle": "AI-Powered Medical Analysis",
+    "quickActions": {
+      "title": "Quick Actions",
+      "emergency": "Emergency Guidelines",
+      "howItWorks": "How It Works",
+      "symptoms": "Common Symptoms Guide"
+    },
+    "analysis": {
+      "title": "Analysis Dashboard",
+      "placeholder": "Describe your symptoms in the chat for a detailed analysis and personalized recommendations."
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "notifications": "Notifications",
+    "language": "Language",
+    "theme": "Theme",
+    "privacy": "Privacy",
+    "save": "Save Changes",
+    "cancel": "Cancel"
+  }
+}
