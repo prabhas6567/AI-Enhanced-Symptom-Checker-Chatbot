@@ -189,7 +189,11 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 ### Owner
 
-This project is maintained by [Gampala Prabhas](https://github.com/prabhas6567). For any questions or support, please contact [prabhas.gampala13@gmail.com](mailto:prabhas.gampala13@gmail.com).
+This project is maintained by [Gampala Prabhas](https://github.com/prabhas6567). For any questions or support,
+
+please contact [prabhas.gampala13@gmail.com](mailto:prabhas.gampala13@gmail.com).
+
+You can connect with me On [LinkedIn](https://www.linkedin.com/in/gampala-prabhas-b2001722a/)
 
 Thank you for your contributions! We appreciate your help in improving the AI-Enhanced Symptom Checker Chatbot.
 
